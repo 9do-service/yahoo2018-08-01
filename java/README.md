@@ -12,7 +12,7 @@
 
 ```
 javac  src/yahooSqlite/YahooSQLite.java
-java -classpath "src:lib/sqlite-jdbc-3.23.1.jar" hellosqlite3.HelloSQLite3
+java -classpath "src:lib/sqlite-jdbc-3.23.1.jar" yahooSqliteYahooSQLite
 ```
 
 若開發者對角度數據提供的資料庫感興趣，可與角度數據聯繫購買您所需要的消費資料庫，或客製開發所需之 API。
